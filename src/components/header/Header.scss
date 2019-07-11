@@ -1,0 +1,23 @@
+.app-bar {
+  box-shadow: none !important;
+  padding: 10px 0;
+
+  .header_logo {
+    flex-grow: 1;
+  }
+  .header_logo_venue {
+    font-size: 40px;
+  }
+  .font_righteous {
+    font-family: "Righteous", cursive;
+  }
+  .header_logo_title {
+    text-transform: uppercase;
+  }
+}
+.headerColor {
+  background-color: #2f2f2f !important;
+}
+.headerTrans {
+  background-color: transparent !important;
+}
