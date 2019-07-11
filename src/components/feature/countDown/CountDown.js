@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Slide from "react-reveal/Slide";
+import "./CountDown.scss";
 export default class CountDown extends Component {
   state = {
     deadline: "Dec,2,2019",

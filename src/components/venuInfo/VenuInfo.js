@@ -2,7 +2,9 @@ import React, { Component } from "react";
 import icon_calendar from "../../resources/images/icons/calendar.png";
 import icon_location from "../../resources/images/icons/location.png";
 import Zoom from "react-reveal/Zoom";
+import "./VenuInfo.scss";
 import "../../styles/share.scss";
+
 export default class VenuInfo extends Component {
   render() {
     return (
